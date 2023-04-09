@@ -6,7 +6,10 @@ AWS Glue offers a visual interface and a code editor for developing ETL jobs usi
 
 
 Set Up
-1.	Create EMR Notebook Role
+1.	Create a bucket
+	
+	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790630-c545c62d-b8d9-4a8e-aaaf-42a33e01f9a0.png">
+
 
 	a.	Open IAM role and create the IAM role for the EMR notebook using the emr notebook role json
 	
