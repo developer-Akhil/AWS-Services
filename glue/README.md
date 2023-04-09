@@ -11,6 +11,11 @@ Set Up
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790630-c545c62d-b8d9-4a8e-aaaf-42a33e01f9a0.png">
 	
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790719-6571d718-b9a8-4316-9f67-9c034f5e4605.png">
+	
+	Need to create sub-folder data,script and temp-dir
+	script folder contains the python script and temp-dir is use to Glue to process thier items
+	<img width="350" alt="image" src="https://user-images.githubusercontent.com/64408106/230790883-a356b875-b0f1-4428-9b15-b3424e6c1f12.png">
+
 
 
 	a.	Open IAM role and create the IAM role for the EMR notebook using the emr notebook role json
