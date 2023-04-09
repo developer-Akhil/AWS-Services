@@ -16,6 +16,11 @@ Set Up
 	script folder contains the python scripts and temp-dir is use to Glue to process thier jobs releated processings
 	
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790883-a356b875-b0f1-4428-9b15-b3424e6c1f12.png">
+	
+	Need to create three more subfolder inside data folder client_database, client_csv and  dataload=20220329
+	
+	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230791496-cba22c21-5a55-4ecb-8d31-5718b79ba97d.png">
+
 
 
 
