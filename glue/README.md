@@ -1,4 +1,8 @@
-EMR Serverless
+AWS Glue
+
+AWS Glue is a serverless ETL tool.AWS Glue is a serverless data integration service that makes it easier to discover, prepare, move, and integrate data from multiple sources for analytics, machine learning (ML), and application development.
+
+AWS Glue is a fully managed ETL (extract, transform, and load) AWS service. One of its key abilities is to analyze and categorize data. You can use AWS Glue crawlers to automatically infer database and table schema from your data in Amazon S3 and store the associated metadata in the AWS Glue Data Catalog.
 
 Set Up
 1.	Create EMR Notebook Role
@@ -32,21 +36,6 @@ Set Up
 	c.	Create a query-results folder
 	
 	d.	Upload files to folders
-
-![emr_1](https://user-images.githubusercontent.com/64408106/230758360-4824c1b8-06a6-4c6a-ac04-c2393ce0bd3b.jpg)
-
-![emr_2](https://user-images.githubusercontent.com/64408106/230758373-542e3a01-bfac-4edc-8c8e-f9ad7f46f633.jpg)
-
-![emr_4](https://user-images.githubusercontent.com/64408106/230758384-25099fdc-43cb-465c-a11f-8052051b2caf.jpg)
-
-![emr_5](https://user-images.githubusercontent.com/64408106/230758393-f9545ea1-4827-4985-8734-6fd73a16f387.jpg)
-
-![emr_6](https://user-images.githubusercontent.com/64408106/230758409-e6d34768-1d9a-4192-b4bd-3db7a3d0a54e.jpg)
-
-![emr_7](https://user-images.githubusercontent.com/64408106/230758430-50f83861-c389-4984-ab15-27a397d82012.jpg)
-
-![emr_8](https://user-images.githubusercontent.com/64408106/230758441-f432ef12-a666-474c-a909-816601964f9e.jpg)
-
 
 
 
