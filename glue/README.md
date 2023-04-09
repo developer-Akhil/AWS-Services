@@ -1,8 +1,9 @@
-AWS Glue
+# AWS Glue
 
-AWS Glue is a serverless ETL tool.AWS Glue is a serverless data integration service that makes it easier to discover, prepare, move, and integrate data from multiple sources for analytics, machine learning (ML), and application development.
+AWS Glue is a serverless ETL tool.AWS Glue is a fully-managed extract, transform, and load (ETL) service provided by Amazon Web Services (AWS) for processing large amounts of data. It enables users to create and run ETL jobs that extract data from various sources, transform it into the desired format, and load it into target systems for analysis.
 
-AWS Glue is a fully managed ETL (extract, transform, and load) AWS service. One of its key abilities is to analyze and categorize data. You can use AWS Glue crawlers to automatically infer database and table schema from your data in Amazon S3 and store the associated metadata in the AWS Glue Data Catalog.
+AWS Glue offers a visual interface and a code editor for developing ETL jobs using pre-built templates or custom code written in Python or Scala. It also includes a variety of built-in transformations for common data manipulation tasks, such as filtering, mapping, and aggregating data.
+
 
 Set Up
 1.	Create EMR Notebook Role
