@@ -1,6 +1,6 @@
-EMR Serverless
+# EMR Serverless
 
-Set Up
+# Set Up
 1.	Create EMR Notebook Role
 
 	a.	Open IAM role and create the IAM role for the EMR notebook using the emr notebook role json
@@ -32,6 +32,8 @@ Set Up
 	c.	Create a query-results folder
 	
 	d.	Upload files to folders
+
+# EMR Serverless Creation Process
 
 ![emr_1](https://user-images.githubusercontent.com/64408106/230758360-4824c1b8-06a6-4c6a-ac04-c2393ce0bd3b.jpg)
 
