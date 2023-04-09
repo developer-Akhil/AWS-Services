@@ -28,9 +28,12 @@ AWS Glue offers a visual interface and a code editor for developing ETL jobs usi
 	
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230791961-95a99fed-d4d4-4f73-837f-07255483d996.png">
 	
-	Adding AdminstractorAccess is bad for productoin but pratice we can you use 
+	Adding AdminstractorAccess Role is bad for productoin but pratice we can you use 
 	
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230792083-567d8f51-1334-44d0-861c-a74f4282b7bf.png">
+	
+	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230792255-498878bf-08f3-49aa-84b0-7c55b0d44679.png">
+
 
 
 
