@@ -12,9 +12,10 @@ Set Up
 	
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790719-6571d718-b9a8-4316-9f67-9c034f5e4605.png">
 	
-	Need to create sub-folder data,script and temp-dir
-	script folder contains the python script and temp-dir is use to Glue to process thier items
-	<img width="350" alt="image" src="https://user-images.githubusercontent.com/64408106/230790883-a356b875-b0f1-4428-9b15-b3424e6c1f12.png">
+	Need to create sub-folders: data,script and temp-dir
+	script folder contains the python scripts and temp-dir is use to Glue to process thier jobs releated processings
+	
+	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790883-a356b875-b0f1-4428-9b15-b3424e6c1f12.png">
 
 
 
