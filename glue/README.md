@@ -5,7 +5,8 @@ AWS Glue is a serverless ETL tool.AWS Glue is a fully-managed extract, transform
 AWS Glue offers a visual interface and a code editor for developing ETL jobs using pre-built templates or custom code written in Python or Scala. It also includes a variety of built-in transformations for common data manipulation tasks, such as filtering, mapping, and aggregating data.
 
 
-Set Up
+# Set Up
+
 1.	Create a bucket
 	
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230790630-c545c62d-b8d9-4a8e-aaaf-42a33e01f9a0.png">
@@ -22,6 +23,7 @@ Set Up
 	<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230791496-cba22c21-5a55-4ecb-8d31-5718b79ba97d.png">
 
 
+2. 	IAM Role for Glue
 
 
 
