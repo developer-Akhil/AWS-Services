@@ -58,6 +58,40 @@ AWS Glue Database provides a logical view of data stored in various sources and 
 
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230836649-79d40bdf-2450-44a2-b3a0-c1e020cc60dc.png">
 
+3.	Databse is Created
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230837000-75949fbf-8642-4f8b-96af-9a75f252d3e2.png">
+
+# AWS Glue Table
+
+An AWS Glue table is a logical representation of a data source that describes the structure and properties of the data. It contains metadata that describes the schema of the data, including column names, data types, and other attributes, and is used by AWS Glue to perform ETL operations on the data.
+
+AWS Glue tables can be created in AWS Glue Database, and users can define the tables using the AWS Glue console or API. When creating a table, users can specify various parameters, such as the data format, location of the data source, and compression type.
+
+AWS Glue tables can be used to transform data during the ETL process, by applying filters, joining data from multiple tables, and performing other data manipulation operations. They can also be used as a target for ETL jobs, where the transformed data is loaded into the table for analysis and querying.
+
+AWS Glue tables support a variety of data formats, including CSV, JSON, Avro, Parquet, and ORC. They also support partitioning, which allows users to organize data into logical partitions based on specific criteria, such as date or region, to improve query performance.
+
+AWS Glue tables are a key component of AWS Glue's ETL capabilities, enabling users to extract, transform, and load data from various sources into a central location for analysis and querying.
+
+# AWS Glue Crawler
+
+AWS Glue Crawler is a service provided by Amazon Web Services (AWS) that automatically discovers and extracts metadata from various data sources, including relational databases, flat files, and semi-structured data. It enables users to create and maintain a data catalog that describes the data available in their environment, making it easier to manage and process large volumes of data.
+
+AWS Glue Crawler works by scanning data sources to infer the schema and structure of the data, and then creates a table definition in the AWS Glue Data Catalog. It can detect changes in the data schema and update the table definition accordingly, ensuring that the catalog remains up-to-date.
+
+AWS Glue Crawler supports a wide range of data sources, including Amazon S3, Amazon RDS, Amazon DynamoDB, and other third-party data stores. It can also detect and handle various data formats, including CSV, JSON, Avro, Parquet, and ORC.
+
+Users can create and manage crawlers using the AWS Glue console or API, and schedule them to run automatically on a regular basis. Crawlers can also be customized to include or exclude specific data sources or tables, and to apply custom data processing logic during the crawl process.
+
+Overall, AWS Glue Crawler simplifies the process of discovering, cataloging, and processing large amounts of data, making it easier for users to perform ETL operations and build data-driven applications.
+
+
+
+
+
+
+
 
 
 
