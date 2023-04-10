@@ -125,6 +125,12 @@ Location where Anetha process to execute
 
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230883062-6ce74cb9-1c57-499e-83c3-fc888b5e4061.png">
 
+# Glue Jobs
+
+AWS Glue Jobs are serverless, which means AWS manages the underlying infrastructure, so you don't need to provision or manage servers. You can create and run ETL jobs in AWS Glue to move and transform data from a variety of sources, such as Amazon S3, relational databases, and data warehouses. AWS Glue Jobs can be written in Python or Scala, and can be scheduled to run on a regular basis or triggered by events.
+
+AWS Glue Jobs also provide built-in support for data quality checks, schema validation, and data transformations. They can be used to perform various types of data processing tasks, such as filtering, aggregating, and joining data. AWS Glue Jobs integrate with other AWS services, such as Amazon Redshift, Amazon Athena, and Amazon EMR, to provide a comprehensive data processing and analysis solution.
+
 
 
 
