@@ -50,6 +50,16 @@ AWS Glue Database is a central metadata repository in AWS Glue that stores infor
 
 AWS Glue Database provides a logical view of data stored in various sources and enables users to define and organize tables into a hierarchical structure called a database. It supports various data formats, including structured, semi-structured, and unstructured data.
 
+1.	Adding database
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230836181-8d19ca22-e8f6-4e82-8ac1-e3de63a0c710.png">
+
+2.	Copy of URI from S3 
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230836649-79d40bdf-2450-44a2-b3a0-c1e020cc60dc.png">
+
+
+
 
 
 
