@@ -122,6 +122,7 @@ Athena is highly scalable and can handle queries that scan terabytes of data. It
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230884282-046f1d05-0df6-4113-93c2-4680ff8c9864.png">
 
 Location where Anetha process to execute
+
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230883062-6ce74cb9-1c57-499e-83c3-fc888b5e4061.png">
 
 
