@@ -87,6 +87,26 @@ Users can create and manage crawlers using the AWS Glue console or API, and sche
 Overall, AWS Glue Crawler simplifies the process of discovering, cataloging, and processing large amounts of data, making it easier for users to perform ETL operations and build data-driven applications.
 
 
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230881148-3c1fb5b7-8d0c-4c75-b6f0-8bb805fb40e9.png">
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230881263-b79d0f1f-ce29-4c85-90a1-4de8e905a7a3.png">
+
+Added source file from where data need to read
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230881476-2079275d-36d2-4a03-b930-2cba046cc78f.png">
+
+Attaching the IAM Role
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230881778-dd67136b-a2b8-4002-b2b3-5622353e5879.png">
+
+Adding the database
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230881964-897676a8-ec12-4445-ba31-3788d0c15745.png">
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230882086-7848cb2a-c39e-4269-bffc-488847b0a38b.png">
+
+Crawler Created
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230882336-54607997-e361-4dca-8b45-b020ec807afd.png">
+
+
+
 
 
 
