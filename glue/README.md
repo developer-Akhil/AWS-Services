@@ -43,6 +43,14 @@ The Glue Data Catalog is a fully-managed metadata repository and catalog service
 Using Glue Data Catalog, organizations can manage and organize their data assets, and make it easier for data analysts, scientists, and engineers to discover, understand, and use the data. The catalog is designed to work with a range of AWS data services, such as Amazon S3, Amazon RDS, Amazon Redshift, and Amazon Athena, as well as third-party data sources.
 
 
+# AWS Glue Database
+
+AWS Glue Database is a central metadata repository in AWS Glue that stores information about data sources, targets, ETL jobs, and other artifacts used in the ETL process. It allows users to define and manage tables and schemas that represent their data, making it easier to perform ETL operations and manage data catalogs.
+
+
+AWS Glue Database provides a logical view of data stored in various sources and enables users to define and organize tables into a hierarchical structure called a database. It supports various data formats, including structured, semi-structured, and unstructured data.
+
+
 
 
 
