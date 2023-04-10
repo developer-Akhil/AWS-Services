@@ -110,6 +110,19 @@ Crawler Created
 <img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230882336-54607997-e361-4dca-8b45-b020ec807afd.png">
 
 
+# Athena
+
+Amazon Athena is a serverless query service that makes it easy to analyze data in Amazon S3 using standard SQL. It allows you to analyze and process vast amounts of data stored in S3 without the need to set up or manage any infrastructure. With Athena, you can run ad-hoc queries to analyze data in S3 and get results in seconds.
+
+Athena is designed to work with structured, semi-structured, and unstructured data stored in S3. You can use it to query data in a variety of formats, including CSV, JSON, ORC, Parquet, and Avro.
+
+Athena is highly scalable and can handle queries that scan terabytes of data. It automatically scales to meet your needs and charges you based on the amount of data scanned by your queries.
+
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/64408106/230883062-6ce74cb9-1c57-499e-83c3-fc888b5e4061.png">
+
+
+
 
 
 
