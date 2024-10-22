@@ -27,4 +27,3 @@ LOCATION 's3://<s3-bucket-name>/customers/'
 TBLPROPERTIES ('skip.header.line.count'='1')
 ;
 
-
